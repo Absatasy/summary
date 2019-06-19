@@ -20,6 +20,7 @@ Embedding Similarity|[keras-embed-sim](https://github.com/CyberZHG/keras-embed-s
 [Position-wise Feed Forward](https://github.com/CyberZHG/keras-position-wise-feed-forward)|[keras-position-wise-feed-forward](https://github.com/CyberZHG/keras-position-wise-feed-forward)<br>![Version](https://img.shields.io/pypi/v/keras-position-wise-feed-forward.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-position-wise-feed-forward.svg)||
 [Octave Convolution](https://arxiv.org/pdf/1904.05049.pdf)|[keras-octave-conv](https://github.com/CyberZHG/keras-octave-conv)<br>![Version](https://img.shields.io/pypi/v/keras-octave-conv.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-octave-conv.svg)| |[mxnet-octave-conv](https://github.com/CyberZHG/mxnet-octave-conv)<br>![Version](https://img.shields.io/pypi/v/mxnet-octave-conv.svg) ![Downloads](https://img.shields.io/pypi/dm/mxnet-octave-conv.svg)
 [ON-LSTM](https://openreview.net/pdf?id=B1l6qiR5F7)|[keras-ordered-neurons](https://github.com/CyberZHG/keras-ordered-neurons)<br>![Version](https://img.shields.io/pypi/v/keras-ordered-neurons.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-ordered-neurons.svg)| |
+[DropConnect](http://yann.lecun.com/exdb/publis/pdf/wan-icml-13.pdf)|[keras-drop-connect](https://github.com/CyberZHG/keras-drop-connect)<br>![Version](https://img.shields.io/pypi/v/keras-drop-connect.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-drop-connect.svg)| |
 
 ### DL Optimizers
 
