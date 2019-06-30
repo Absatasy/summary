@@ -38,6 +38,7 @@ Name | Keras | PyTorch | MXNet
 [Transformer](https://arxiv.org/pdf/1706.03762.pdf)|[keras-transformer](https://github.com/CyberZHG/keras-transformer)<br>![Version](https://img.shields.io/pypi/v/keras-transformer.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-transformer.svg)|[torch-transformer](https://github.com/CyberZHG/torch-transformer)<br>![Version](https://img.shields.io/pypi/v/torch-transformer.svg) ![Downloads](https://img.shields.io/pypi/dm/torch-transformer.svg)|
 [BERT](https://arxiv.org/pdf/1810.04805.pdf)|[keras-bert](https://github.com/CyberZHG/keras-bert)<br>![Version](https://img.shields.io/pypi/v/keras-bert.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-bert.svg)||
 [GPT-2](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf)|[keras-gpt-2](https://github.com/CyberZHG/keras-gpt-2)<br>![Version](https://img.shields.io/pypi/v/keras-gpt-2.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-gpt-2.svg)|[torch-gpt-2](https://github.com/CyberZHG/torch-gpt-2)<br>![Version](https://img.shields.io/pypi/v/torch-gpt-2.svg) ![Downloads](https://img.shields.io/pypi/dm/torch-gpt-2.svg)|
+[Transformer-XL](https://arxiv.org/pdf/1901.02860.pdf)|[keras-transformer-xl](https://github.com/CyberZHG/keras-transformer-xl)<br>![Version](https://img.shields.io/pypi/v/keras-transformer-xl.svg) ![Downloads](https://img.shields.io/pypi/dm/keras-transformer-xl.svg)||
 
 ## GitHub
 
